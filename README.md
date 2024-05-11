@@ -1,16 +1,30 @@
-### Hi there 👋
 
-<!--
-**RyanMabrouk/RyanMabrouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1 align="center" > Hi, I'm Rayen Mabrouk! 👋</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+  <p align="center">
+   I am a passionate full-stack developer at Takiacademy Welcome to my GitHub profile! 🚀
+  </p>
+
+
+
+## 🌐 Find Me On
+
+[![LinkedIn: Rayen Mabrouk🇵🇸🇹🇳](https://img.shields.io/badge/-RayenMabrouk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=braiek-hazem)](https://www.linkedin.com/in/rayen-mabrouk%F0%9F%87%B5%F0%9F%87%B8%F0%9F%87%B9%F0%9F%87%B3-6bbb17253/)
+
+## 📊 GitHub Stats
+
+![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanMabrouk&show_icons=true&theme=radical)
+
+## 📚 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanMabrouk&layout=compact&theme=radical)](https://github.com/RyanMabrouk/github-readme-stats)
+
+## 🏆 GitHub Contributions
+
+![Rayen's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=RyanMabrouk&theme=radical)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=RyanMabrouk&theme=radical)](https://github.com/RyanMabrouk/github-profile-trophy)
