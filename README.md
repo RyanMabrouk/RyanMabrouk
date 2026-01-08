@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,mongodb,postgres,docker,tailwind,git" />
+  <img src="https://skillicons.dev/icons?i=js,typescript,react,nextjs,nodejs,express,mongodb,postgres,docker,tailwind,git,supabase,nestjs,bun" />
 </p>
 
 ## 🌐 Find Me On
